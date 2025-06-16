@@ -79,4 +79,6 @@ The correct **Abacus Market link** is your portal to a secure trading experience
 
 
 
-Update:  06/13/2025 04-12-36
+
+
+Update: link is accessible again
