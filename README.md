@@ -93,4 +93,6 @@ The correct **Abacus Market link** is your portal to a secure trading experience
 
 
 
-Update: Fixed redirect issues in documentation
+
+
+Update: link is back up
