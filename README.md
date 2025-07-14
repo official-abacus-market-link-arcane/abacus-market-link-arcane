@@ -95,4 +95,6 @@ The correct **Abacus Market link** is your portal to a secure trading experience
 
 
 
-Update: link is back up
+
+
+Update:  14 July url is live and functioning
